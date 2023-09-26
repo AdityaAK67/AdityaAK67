@@ -1,0 +1,61 @@
+import java.util.Scanner;
+class Parent
+{
+void show()
+{
+System.out.println("This Is Calculator ");
+}
+}
+class Sub extends Parent
+{
+    void CAL(int a,int b)
+    {
+        System.out.println("Substraction is: "+(a-b));
+    }
+}
+
+class Addition extends Parent
+{
+    void Calculator1(int a,int b)
+    {
+        System.out.println("Addition is: "+(a+b));
+    }
+}
+
+class Division extends Parent
+{
+    void CAL(int a,int b)
+    {
+        System.out.println("Division is: "+(a/b));
+    }
+}
+
+class Multiplication extends Parent
+{
+    void CAL(int a,int b)
+    {
+        System.out.println("Multiplication is: "+(a*b));
+    }
+}
+
+public class CAL {
+    public static void main(String[] args) 
+    { 
+        Scanner ak= new Scanner(System.in);
+        int a=ak.nextInt();
+        int b=ak.nextInt();
+        Parent o1=new Parent();
+        o1.show();
+        Sub k=new Sub();
+        k.CAL(a,b);
+
+        Division d=new Division();
+        d.CAL(a, b);
+
+        Multiplication m=new Multiplication();
+        m.CAL(a, b); 
+        
+        Addition s=new Addition();
+        s.CAL(a,b);	       
+    }
+}
