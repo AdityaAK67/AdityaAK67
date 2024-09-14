@@ -1,3 +1,5 @@
+Hi there! 👋 I'm Aditya Kandalkar,
+A passionate Cybersecurity Enthusiast, Machine Learning Learner, Full Stack Developer, and an aspiring Prompt Engineer.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditya__a_k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-kandalkar-060b75259/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@AK__07) 
