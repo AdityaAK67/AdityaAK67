@@ -24,7 +24,7 @@ A passionate Cybersecurity Enthusiast, Machine Learning Learner, Full Stack Deve
 ![Nikto](https://img.shields.io/badge/Nikto-000000?style=for-the-badge&logo=nikto&logoColor=white)
 ![SQLmap](https://img.shields.io/badge/SQLmap-000000?style=for-the-badge&logo=sqlmap&logoColor=white)
 ![Autopsy](https://img.shields.io/badge/Autopsy-000000?style=for-the-badge&logo=autopsy&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-FF0000?style=for-the-badge&logo=snort&logoColor=white)
+!(https://img.shields.io/badge/Snort-FF0000?style=for-the-badge&logo=snort&logoColor=white)
 ![Netcat](https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logo=netcat&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali--Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
