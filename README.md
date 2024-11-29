@@ -1,5 +1,5 @@
 Hi there! 👋 I'm Aditya Kandalkar,
-A passionate Cybersecurity Enthusiast, Machine Learning Learner, Full Stack Developer, and an aspiring Prompt Engineer.
+A passionate Cybersecurity Enthusiast, Machine Learning, IOT, and an aspiring Prompt Engineer.
 
 ![Cybersecurity Themed GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVrZmRlenZ0c3pqMGRoOTJrcXZkaG50aGRjeXJxYmtlZ2k4NHZpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif)
 
